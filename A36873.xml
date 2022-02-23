@@ -1,0 +1,1667 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The love of God, or, Love divine being the subject of these ensuing meditations / collected out of Mr. Gorings English translation ; originally penned by Peter Du Moulin ... ; digested into divine poems by William Wood ...</title>
+            <author>Wood, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36873</idno>
+            <idno type="STC">Wing D2588</idno>
+            <idno type="STC">ESTC R37780</idno>
+            <idno type="EEBO-CITATION">17015871</idno>
+            <idno type="OCLC">ocm 17015871</idno>
+            <idno type="VID">105797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The love of God, or, Love divine being the subject of these ensuing meditations / collected out of Mr. Gorings English translation ; originally penned by Peter Du Moulin ... ; digested into divine poems by William Wood ...</title>
+                  <author>Wood, William.</author>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at York by Tho. Broad for the author,</publisher>
+                  <pubPlace>[York] :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Running title: Divine poems.</note>
+                  <note>Imperfect: print show-through, with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105797:1"/>
+            <pb facs="tcp:105797:1"/>
+            <p>The love of God, OR, <hi>Love Divine:</hi>
+            </p>
+            <p>Being the ſubject of theſe enſuing Meditations.</p>
+            <p>Collected out of Mr <hi>Gorings</hi> Engliſh Tranſlation, originally penned by <hi>Peter Du Moulin,</hi> Prea<g ref="char:EOLhyphen"/>cher to the Reformed Church in <hi>PARIS.</hi>
+            </p>
+            <p>
+               <hi>Digeſted into Divine Poems by</hi> William Wood, <hi>a Native and free Citizen of the Citie o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> York, <hi>now reſient at</hi> Ekington <hi>in the Countie of</hi> Darby.</p>
+            <p>
+               <hi>Printed at</hi> York <hi>by</hi> Tho: Broad <hi>for the Author.</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105797:2"/>
+            <pb facs="tcp:105797:2"/>
+            <p>To all that love God, eſpecially the Ma<g ref="char:EOLhyphen"/>giſtracie, Miniſtery, and Commonalty of the Honourable Citie of <hi>Yorke,</hi> and famous Town of <hi>Newcaſtle</hi> upon <hi>Tyne.</hi>
+            </p>
+         </div>
+         <div type="prologue">
+            <head>The Prologue.</head>
+            <l>
+               <hi>York</hi> gave me birth, <hi>Newcaſtle</hi> gave me breeding,</l>
+            <l>Bleſt be they both, for love, Law, Cloth and feeding.</l>
+            <l>Having out liv'd the years of ſeventy four,</l>
+            <l>So that my ſeeing ſence can ſee no more</l>
+            <l>To Write, or Read, or to diſcern a Letter,</l>
+            <l>Yet ſtill to Heav'n I ſtand oblig'd a Debter.</l>
+            <l>For lack and loſſe of this my nat'rall ſight,</l>
+            <l>God gives me better, his internall light,</l>
+            <l>As Vnderſtanding, Will, and Memory,</l>
+            <l>His love to land, his Name to glorifie.</l>
+            <l>My heart bethought me what I ought to tender</l>
+            <l>For Gods great love, 'twas love for love to render;</l>
+            <l>Therefore on love Divine my meditations</l>
+            <l>Come next in place, with lovely Contemplations.</l>
+            <closer>
+               <signed>W: Wood.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105797:3"/>
+            <pb n="1" facs="tcp:105797:3"/>
+            <head>Divine Poems.</head>
+            <head>Of true and falſe love.</head>
+            <l>LOve hath her Objects either falſe or true,</l>
+            <l>Which all our ſpirits reſtleſly purſue:</l>
+            <l>That which is pond'rous here in maſſive things,</l>
+            <l>Love in our ſoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the ſame effect it brings:</l>
+            <l>As weight bowes earthly bodies to their reſt,</l>
+            <l>True love allures our ſouls to that is beſt.</l>
+            <l>This love is that which gives the ſoul content,</l>
+            <l>Which in eſteem is ſuper-excellent;</l>
+            <l>Whereas falſe love is meer imagination,</l>
+            <l>Irregular, and wild'ring agitation:</l>
+            <l>A whirling, gadding, giddy, endleſſe motion,</l>
+            <l>In true love's lore, which hath no ſpirituall notion;</l>
+            <l>Such is fallacious love, fil'ld with this dyet</l>
+            <l>Of ill digeſtion, breedeth much diſquiet,</l>
+            <l>And's often weary, often doth deſpair,</l>
+            <l>Which is no reſt, becauſe 'tis clogg'd with care.</l>
+            <l>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire doth ſtill continue for a fit,</l>
+            <l>Like a ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d horſe which often gnawes his bit:</l>
+            <l>The moſt deſire the thing they leaſt can do,</l>
+            <l>What they obey it often works their woe:</l>
+            <l>If we with eaſe, enjoy that thing we love,</l>
+            <l>This we diſtaſt, and often diſ-approve.</l>
+            <l>That which we covet, and atcheive with gain,</l>
+            <l>The lucre's often loſt, proves void and vain.</l>
+            <l>For worldly love reſiſtance ſets on fire,</l>
+            <l>And nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt with dolour dan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth our deſire.</l>
+            <l>If g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zing man ſhall fix his wandring eye</l>
+            <l>On Mundane pleaſures, which in haſt do flie,</l>
+            <pb n="2" facs="tcp:105797:4"/>
+            <l> All paſſe away but as a glimpſe of glory,</l>
+            <l>The richeſt Ge<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m is worthleſſe, tranſitory:</l>
+            <l>Inſtead of durance, ſtable, firme content,</l>
+            <l>A Chain of cares turns to his detriment;</l>
+            <l>Linked together for his future woe,</l>
+            <l>For will he, nill he, Providence ſaith ſo.</l>
+            <l>The graveſt ſweets are ſometimes ſower and tart,</l>
+            <l>Befool the guſt and fatuates the heart:</l>
+            <l>Riches and honour vain, and worldly pleaſure</l>
+            <l>Do waſt or wain, or's rapt by caſuall ſeizure.</l>
+            <l>Uncertain are we of this worlds poſſeſſion,</l>
+            <l>But ſure we are to leave it to ſucceſſion:</l>
+            <l>If theſe by caſuall means they do not leave us,</l>
+            <l>Death ſhall at laſt of all our all bereave us:</l>
+            <l>Theſe are imparted on the wicked train,</l>
+            <l>For no end elſe, but to augment their pain.</l>
+            <l>Man to expoſe his love to things below,</l>
+            <l>Is as to chaſe the wind each where doth blow;</l>
+            <l>For when theſe things as good may termed be,</l>
+            <l>Thei're frail and finite every hour we ſee.</l>
+            <l>The mark-man when the fowl in ayre doth flie,</l>
+            <l>Can take no aim by levell of his eye;</l>
+            <l>Nor we aſſurance have in pomp or pleaſure,</l>
+            <l>By our deſignes to gourmandize baſe treaſure.</l>
+            <l>For we muſt ſearch for reſt ſome other where</l>
+            <l>Then on the earth, in Heav'n, we're ſure, 'tis there.</l>
+            <l>For as the lower Regions in their kind,</l>
+            <l>Are mixt with vapours, tempeſts, ſtorms and wind.</l>
+            <l>But that approacheth nearer Sions hill,</l>
+            <l>Is calm and quiet, peaceable and ſtill:</l>
+            <l>So ſhall our love be reſtleſle, wanting peace,</l>
+            <l>Whiles terrene troubles cauſe this love to ceaſe:</l>
+            <l>But if in Heav'n ſhe aim to build her neſt,</l>
+            <l>In's precious promiſes ſhe ſhall find reſt.</l>
+            <l>And for this cauſe the Pilot cloſe doth ſtand,</l>
+            <l>Near to the Card, to ſave from ſhelf and ſand</l>
+            <l>His floating ſhip, leſt that ſhe ſhould be wreck't</l>
+            <l>By needles point, he doth his courſe direct.</l>
+            <pb n="3" facs="tcp:105797:4" rendition="simple:additions"/>
+            <l> In ſemblant ſort each faithfull Chriſtians heart,</l>
+            <l>Amidſt confuſe afflictions noiſome ſmart,</l>
+            <l>He ſhall enjoy thoſe joyes ſhall never ceaſe,</l>
+            <l>In that his love aims at the God of peace;</l>
+            <l>Which is the onely object of our love,</l>
+            <l>Moſt abſolute the Saints do all approve.</l>
+            <l>This love can make us lovely, for that ſhe,</l>
+            <l>Can make us happy in a high degree:</l>
+            <l>And which alone, and abſolutely ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </l>
+            <l>Moſt happy make the wretched ſtate of man.</l>
+            <l>Man's ear, nor's eye, hath heard, nor ſeen, nor's heart</l>
+            <l>Can comprehend, what God will hence impart</l>
+            <l>On thoſe in chief ſincerely do him love,</l>
+            <l>His ſpeechleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e mercies that's reſerv'd above.</l>
+            <l>Gods love doth move mankind to admiration.</l>
+            <l>For that mans ſoul is made Gods habitation:</l>
+            <l>His pleaſant Palace, which he likes full well,</l>
+            <l>His Spirits fair Temple, where he loves to dwell.</l>
+            <l>This Maxime <hi>Athens</hi> Schooles did firſt ordain,</l>
+            <l>That God or nature nothing made in vain.</l>
+            <l>Mans boundleſſe thoughts, ſurge as the Marine flood,</l>
+            <l>Nothing can ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it but the Supreame good,</l>
+            <l>Which here on earth the wiſeſt never found,</l>
+            <l>Muſt be in Heav<g ref="char:punc">▪</g>n tranſcending this vaſt round.</l>
+            <l>Adde hereunto, that God the world did frame</l>
+            <l>For mans own uſe, and man to bleſſe his name.</l>
+            <l>Amongſt the various formes of every creature,</l>
+            <l>God made us men according to his feature;</l>
+            <l>In ſtature formed ſtaight, erect, upright,</l>
+            <l>Lovely and comely in his Makers ſight:</l>
+            <l>That he might love his God whoſe forme he bears,</l>
+            <l>Lift his deſires above the Starry ſpheares.</l>
+            <l>Adde that we cannot gain the Spirits perfection,</l>
+            <l>Untill the Spirit of ſpirits unite affection;</l>
+            <l>Which to the creature doth communicate</l>
+            <l>His vertue, as the Sun in cleareſt ſtate</l>
+            <l>Darts forth his beams, and doth his luſtre lend.</l>
+            <l>To lower Lights, which do on him depend.</l>
+            <pb n="4" facs="tcp:105797:5"/>
+            <l> True love is that which doth transform the Lover</l>
+            <l>Into the thing beloved, and no other:</l>
+            <l>Now if a man deform'd in's extern part,</l>
+            <l>Love a corporeall beauty in his heart;</l>
+            <l>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'re ſhall he by that love correct his own</l>
+            <l>Defectiveneſſe, which generally is known.</l>
+            <l>Contrariwiſe, by loving God we ſhall</l>
+            <l>Be like to God, who is our all in all:</l>
+            <l>As in a mirrour plainly we do ſee</l>
+            <l>God face to face, and changed then are we.</l>
+            <l>Of love 'tis ſaid, that beauty is the firſt</l>
+            <l>Hot ſpark, or flame, that ſets this love on thirſt,</l>
+            <l>Conſiderately we ſhall diſcern and ſee</l>
+            <l>What we call love, doth not with truth agree:</l>
+            <l>But ſuch a love that's ſuperficiall,</l>
+            <l>Which covereth filth, is but extrinſicall.</l>
+            <l>But God's that light, all beauties doth excell,</l>
+            <l>Whoſe radient rayes no mortall tongue can tell,</l>
+            <l>God being then the firſt and pureſt light,</l>
+            <l>Paternally, of ſhining Lamps moſt bright;</l>
+            <l>By conſequence Heav'ns Oracles have proved</l>
+            <l>That he's the light moſt worthy to be loved,</l>
+            <l>Yet humane wiſdome, much doth diſagree</l>
+            <l>With that's Divine, it hath no ſympathie.</l>
+            <l>For the Philoſophy that's naturall,</l>
+            <l>With Nat'raliſts, is deemed beſt of all.</l>
+            <l>Contrarily the Scriptures do decla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,</l>
+            <l>That nat'rall love with heavenly holds no ſhare:</l>
+            <l>For ſince that Sathan hath defac'd the Image</l>
+            <l>Of God, in <hi>Adam,</hi> and in <hi>Adam's</hi> Image;</l>
+            <l>Man's turned towards the world in his deſires,</l>
+            <l>From heav'n to earth, his groveling thought retires.</l>
+            <l>Our carnall thoughts, our Mundane baſe delights,</l>
+            <l>Hold enmity againſt the God of ſpirits.</l>
+            <l>If any one have grace his God to love,</l>
+            <l>The gift's not ours, but God's, that dwells above:</l>
+            <l>Therefore our Jeſus ſaith in's Goſpell Law,</l>
+            <l>None comes to him except his Father draw;</l>
+            <pb n="5" facs="tcp:105797:5" rendition="simple:additions"/>
+            <l> And bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>Did pull us out, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>:</l>
+            <l>The ſacred verity of this <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d,</l>
+            <l>We muſt love God bee uſe he lov'd us firſt,</l>
+            <l>This alſo, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and firm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effect,</l>
+            <l>Of Gods true love, if <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</l>
+            <l>Next under heave<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould require,</l>
+            <l>More then this grace to love with whole de<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>:</l>
+            <l>For to the faithfull this doth teſtifie,</l>
+            <l>That God with's love his ſoul ſhall ſatisfie.</l>
+            <l>This lov's the very firſt effe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of faith,</l>
+            <l>Traceth Gods image, as the Scripture <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </l>
+            <l>It is the mark and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>For they are endow'd wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love and fil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull fear.</l>
+            <l>This love's the ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of vertues, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and oth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>:</l>
+            <l>Hath ſoveraign eminen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> elder brother:</l>
+            <l>She ſits as Judge, our <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leth,</l>
+            <l>Summs up the La<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>This love ſuſtaineth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> did <hi>S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ph<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi>
+            </l>
+            <l>A ladder that can each <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> high as Heaven;</l>
+            <l>She's peace of conſcienc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elding that content,</l>
+            <l>Is ſuperexcellently <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>Yea it is ſuch I dare <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith boldneſſe ſay,</l>
+            <l>Gives us a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſte of Heav'n <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this our day:</l>
+            <l>It here begins the u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on endleſſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt<g ref="char:punc">▪</g>
+            </l>
+            <l>Communion with God amongſt the bleſt.</l>
+            <l>Our thoughts and muſe in this ſweet meditation,</l>
+            <l>Cannot ſoar up to higher contemplation;</l>
+            <l>For what is th<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n God, that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t,</l>
+            <l>Or then his love to tell on, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat.</l>
+            <l>The profit likewiſe ſurely is no leſſe,</l>
+            <l>Then it is ſweet, which no tongue can expreſſe.</l>
+            <l>Men are not good, nor bad, becauſe that they</l>
+            <l>Beleeve and truſt, but that they do obey;</l>
+            <l>'Tis ſaid, they'r good even thoſe that love good things,</l>
+            <l>None elſe is ſuch, but God the King of Kings:</l>
+            <pb n="6" facs="tcp:105797:6"/>
+            <l> Who not alone in goodneſſe doth tranſcend,</l>
+            <l>But makes there ſo that love him to the end.</l>
+            <l>Let's be inſtructed by Gods holy Spirit,</l>
+            <l>That's love it ſelf, ſo ſhall we heav'n inherit:</l>
+            <l>And which will form our hea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> unto the frame</l>
+            <l>Of reall love and not a love in <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>Leaſt we ſhould take a love corporeall,</l>
+            <l>In lew of love that's true and ſpirituall:</l>
+            <l>An itching love that is importunate,</l>
+            <l>A furious heat our brains in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate,</l>
+            <l>To wit, of vices that's extr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mly ill,</l>
+            <l>For chief vertue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God's <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſts fulfill:</l>
+            <l>A brutiſh ſickneſſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>For a perfection that's Angell <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>'Tis doubtleſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of him that ſhall diſpoſe</l>
+            <l>Himſelf, to love his God i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of thoſe,</l>
+            <l>Neglects all baſe and by conſider<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions,</l>
+            <l>For ſerving God, with willing inclinations.</l>
+            <l>Though he incurre the worlds malignant hate,</l>
+            <l>He's not dejected, nor <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>:</l>
+            <l>Starts not nor ſhrinks for all <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſdain,</l>
+            <l>This worlds harſh hatred bring<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndleſſe gain.</l>
+            <l>Earths brittle pleaſures Heav'ns afflicting rod,</l>
+            <l>Do work the weal of them which love their God:</l>
+            <l>Evills turn bleſſings, not to on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fall</l>
+            <l>Whom God ſhall ſcourge with ſtripes corporeall.</l>
+            <l>The bodies ſickneſſe proves a ſpeciall cure</l>
+            <l>Unto the ſoul, the Magi hold it ſure.</l>
+            <l>Heavens high Phiſitian by <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſkill</l>
+            <l>Can cure with poiſon, that wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wont to kill:</l>
+            <l>His ſtrokes are balm, as holy <hi>David</hi> ſaith,</l>
+            <l>Matter of patience for to try our faith.</l>
+            <l>The paſſive ſufferer meekly bears his Croſſe,</l>
+            <l>And for Gods cauſe he values not his loſſe:</l>
+            <l>The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſufferings are like ſcarrs upon the face,</l>
+            <l>And honours man received in bloody chaſe<g ref="char:punc">▪</g>
+            </l>
+            <pb n="7" facs="tcp:105797:6"/>
+            <l> Conformities unto our Captain Chriſt,</l>
+            <l>As Chriſtian ſoldiers numbred in his liſt;</l>
+            <l>And all through under propping of this love,</l>
+            <l>Tartneſſe i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> temp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red that it ſweet doth prove;</l>
+            <l>And maketh us entirely to rejoyce,</l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>.</l>
+            <l>Some one will ſay, and thereto doth aſſent</l>
+            <l>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love of God'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue excellent;</l>
+            <l>And that to love him we before muſt know,</l>
+            <l>What is this duty which to him we owe:</l>
+            <l>And that our knowledge here is moſt obſcure,</l>
+            <l>Both dimme and dark, bemiſted and impure,</l>
+            <l>Yet in no wiſe we muſt forbear, forget</l>
+            <l>To ſtudy knowledge that's before us ſet;</l>
+            <l>Our Ignorance muſt have no toleration,</l>
+            <l>Nor cauſe neglect in God's negotiation.</l>
+            <l>Of God although our knowledge be but ſmall,</l>
+            <l>It us incites to love him therewithall:</l>
+            <l>One glimpſe of his moſt radiant rayes and gleams</l>
+            <l>Exceeds the Sun with his moſt ſplendent beams.</l>
+            <l>The knowledge, knowing God with dark'ned ſight,</l>
+            <l>Surpaſſeth nat'rall, and the Gentiles light;</l>
+            <l>So if a priſoner do in dungeon lye,</l>
+            <l>And at a think ſome beam of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſpy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>By that he knows the beauty of the light.</l>
+            <l>Which comforteth the ſilly Captive wight.</l>
+            <l>The petty portion and the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſkill</l>
+            <l>In knowing God, whoſe fulneſſe all things fill;</l>
+            <l>Sufficient is for to delight our taſte</l>
+            <l>With's excellence, above the Heav'ns plac't:</l>
+            <l>And with his love our ſouls ſo to enflame,</l>
+            <l>His love alone gives cauſe to bleſſe his name.</l>
+            <l>Beſides God's knowledge that's made known to any,</l>
+            <l>May ſavingly ſufficient be to many:</l>
+            <l>The debts we owe to God by obligation,</l>
+            <l>For's goodneſſe in his love, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> admiration<g ref="char:punc">▪</g>
+            </l>
+            <pb n="8" facs="tcp:105797:7"/>
+            <l> Are fully ſet forth to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in his Word,</l>
+            <l>As ſacred Oracles the ſame record;</l>
+            <l>Which <hi>Paul</hi> the convert, preaching hath not ſpared,</l>
+            <l>But Gods whole Councell unto us declared.</l>
+            <div n="1" type="part">
+               <head>The fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt degree of the love of God, is, to lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God becauſe of the good which he doth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to receive of him.</head>
+               <l>THe firſt and loweſt ſtep, is, God to love,</l>
+               <l>Mercies received, hereto may us move:</l>
+               <l>On this degree <hi>David</hi> did much rejoyce,</l>
+               <l>Bleſſed his God, becauſe he heard his voyce;</l>
+               <l>For ſo it muſt be truly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderſtood,</l>
+               <l>God will be lov'd in tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth us good.</l>
+               <l>It's God that made, preſerves, and doth us guide,</l>
+               <l>Inſtructs our ſouls, for bodies doth provide;</l>
+               <l>Redeems <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s by his Son, next by his Spirit<g ref="char:punc">▪</g>
+               </l>
+               <l>He ſanctifies us, Heaven fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it.</l>
+               <l>Directs us by his Word him for to ſerve,</l>
+               <l>Makes us his friends we ſhoul'd not from him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</l>
+               <l>Yea, ev'n his children with himſelf <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Such love like this as yet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever none.</l>
+               <l>
+                  <hi>Plato</hi> in his blind way to God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thanks,</l>
+               <l>For three things, which he harſh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in their ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks.</l>
+               <l>Firſt, making him no Beaſt, but made hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Next, born a Greek, and no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Yet to his luſtre more to make it ſhine,</l>
+               <l>He termed was Philoſopher Divine.</l>
+               <l>We that in quainter Schooles have been inſtructed,</l>
+               <l>In better wayes of pray<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conducted:</l>
+               <l>His name of us ought alſo to be bleſt,</l>
+               <l>For three things likewiſe which are here expreſt.</l>
+               <pb n="9" facs="tcp:105797:7"/>
+               <l> Firſt, that in mercy men he did <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make,</l>
+               <l>Next, that of holy truth we do partake;</l>
+               <l>Thirdly, 'mongſt thoſe who Chriſtians called <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>He makes us faithfull on <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> through his ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>A fourth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e'l adds, that by his own dec<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing,</l>
+               <l>He did adopt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> world had b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing<g ref="char:punc">▪</g>
+               </l>
+               <l>For if a pregnant, woman <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our bea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Unto the Child which ſhe ſhould ſhortly rear<g ref="char:punc">▪</g>
+               </l>
+               <l>Her fruit unſeen, ſhe ſheildeth from all harmes,</l>
+               <l>What will ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> do when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within her Arms?</l>
+               <l>So if God lov'd us long before we were<g ref="char:punc">▪</g>
+               </l>
+               <l>Much more when lov'd; and <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>'d; with filiall f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<g ref="char:punc">▪</g>
+               </l>
+               <l>Now in the rareneſſe of thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpeciall grace,</l>
+               <l>The fewer number have the higher place;</l>
+               <l>The greater is his bounty and his plenty<g ref="char:punc">▪</g>
+               </l>
+               <l>Upheapt with mercies when the moſt are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpty.</l>
+               <l>Theſe graces chiefly, they depend on one,</l>
+               <l>Our reconcilement Jeſus made alone.</l>
+               <l>He is the Conduit pipe by which do flow<g ref="char:punc">▪</g>
+               </l>
+               <l>All graces on the dwellers have below;</l>
+               <l>Its <hi>Jacob's</hi> Ladder, which to Heav'ns aſcends,</l>
+               <l>Of enemies 'gainſt God, it makes us friends<g ref="char:punc">▪</g>
+               </l>
+               <l>The Angels which aſcend and do deſcend,</l>
+               <l>(This S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale) our prayer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gods bleſſings do portend;</l>
+               <l>
+                  <hi>Jacob</hi> his ſleeping at the Ladders foot,</l>
+               <l>Our Conſcience reſts moſt <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly doth denote:</l>
+               <l>Under the ſhade of Chriſts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> interceſſion,</l>
+               <l>Doth ſatisfie <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for our tranſgreſſion,</l>
+               <l>For ere that time on whatſoever ſide,</l>
+               <l>Man turn'd his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his heart was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fide:</l>
+               <l>If upon God <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> conſuming fire,</l>
+               <l>Arm'd againſt ſinners, with conſiderate ire.</l>
+               <l>If on the Law he ſaw Gods indignation,</l>
+               <l>In the ſharp ſentence of his condemnation.</l>
+               <l>If on the Heavens, with horror he could ſay<g ref="char:punc">▪</g>
+               </l>
+               <l>Thence I'm debar'd in that I went aſtray.</l>
+               <pb n="10" facs="tcp:105797:8"/>
+               <l> If on the world, he ſaw himſelf dereſt</l>
+               <l>Of rule o're Creatures, he before poſſeſt.</l>
+               <l>If on himſelf, he fearfully eſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Thouſands extern and Spirit all maladies<g ref="char:punc">▪</g>
+               </l>
+               <l>By ſignes of Heav'n<g ref="char:punc">▪</g> and Earth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, he did fea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Approaching v<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>geance to his thoughts appear<g ref="char:punc">▪</g>
+               </l>
+               <l>Then Satan, death, that deep abiſſe of Hell</l>
+               <l>Frights him, which pain the loſſe no tongue can tell.</l>
+               <l>But now all ſorts which look upon their Jeſus</l>
+               <l>With confidenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beholds him who can eaſe us.</l>
+               <l>If he behold his God he calls him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather,</l>
+               <l>Who him adop<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Chriſt that is his Saviour.</l>
+               <l>If on the Judgement <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> caſt his eye,</l>
+               <l>His Elder Brother <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Majeſty;</l>
+               <l>As Judge and Advocate upon the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone,</l>
+               <l>Hee'l ſay more f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iends in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he Acedeth lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <l>If he think on the Angel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay,</l>
+               <l>Theſe keep me, and defend me in my <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y.</l>
+               <l>If on the Heav'n he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his ſpeculation,</l>
+               <l>He will conclude it is my habitation.</l>
+               <l>If of the Thunder he ſhall hear the noiſe,</l>
+               <l>He will confeſſe it is his Fathers voice.</l>
+               <l>If he behold the Law conſiderately,</l>
+               <l>He ſaith that Chriſt his debt did ſatisfie,</l>
+               <l>If he on earth have wealth abound in ſtore,</l>
+               <l>Hee'l ſay in glory he ſhall have much more.</l>
+               <l>If with adverſity he ſuffer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſe,</l>
+               <l>Hee'l ſay Chriſt ſuffer'd more upon the Croſſe.</l>
+               <l>If he think on the Devill, Death, or Hell,</l>
+               <l>Saint <hi>Paul</hi> hath taught him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow his foes to quell:</l>
+               <l>Where is thy ſting (O death) would cauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dye,</l>
+               <l>O grave, where is thy force, thy victory,</l>
+               <l>Our God be praiſed and his name adorn,</l>
+               <l>Who made us triumphant through Chriſt our Lord.</l>
+               <l>If theſe like ang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ps buzze in our ear<g ref="char:punc">▪</g>
+               </l>
+               <l>Their ſting is loſt, we <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed them not to feard.</l>
+               <pb n="11" facs="tcp:105797:8"/>
+               <l> If the old Serpent he do prick our Heel,</l>
+               <l>Chriſt br<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead, no anguiſh we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an feel.</l>
+               <l>Unto the love of God, theſe obligations</l>
+               <l>Are common to the faithfull of all Nations.</l>
+               <l>If each look back upon his time that's gone,</l>
+               <l>I dare well ſay of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll there is not one</l>
+               <l>But grants, beſides the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that God doth beſtow,</l>
+               <l>Yet private mercies, unto his o'reſtow.</l>
+               <l>Freedom from danger<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, bring at deſpair,</l>
+               <l>Good chances evidence Gods love and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Gainfull afflictions, purpoſes are croſt,</l>
+               <l>Turn to our good, when in the world we're toſs'd</l>
+               <l>Shall it be ſaid, Gods Meſſings on <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Make us not fruitfull, and his i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vain,</l>
+               <l>While we do ſay, God doth us good for this,</l>
+               <l>That we ſhould love him, is no need of his.</l>
+               <l>But here's the cauſe, in that he would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſave,</l>
+               <l>He wills our love, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all that he would have;</l>
+               <l>Beſides, if we love him, he is the cauſe</l>
+               <l>This love he kindles our <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>This love's firſt ſtep, though holy, fit for uſe,</l>
+               <l>It but begins, to Heav'nward doth conduce,</l>
+               <l>For he that loves his God but for repaſt,</l>
+               <l>Is like to boyes th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pray to break their fuſt;</l>
+               <l>But ſuch a love no <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> doth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>He wrongs his God, and wages makes his end.</l>
+               <l>If love of God a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nought but profit ai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Then above God we ſtriye to build the ſame,</l>
+               <l>And make our intereſt more excellent</l>
+               <l>Then God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> high ſervice ſo <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Let him that<hi>'s</hi> come unto this firſt gradation</l>
+               <l>Of love, and ſtands ſtill on this ſtep and ſtation,</l>
+               <l>Know that it<hi>'s</hi> much that God in us doth pardon,</l>
+               <l>If that his wrath our ſelf-love do not guerdon:</l>
+               <l>Wherefore let us advance and mount more higher,</l>
+               <l>So to the ſecond ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep we ſhall aſpir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </div>
+            <div n="2" type="part">
+               <pb n="12" facs="tcp:105797:9"/>
+               <head>The ſecond degree is to love him for his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he is <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </head>
+               <l>OF love to God this i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Solely to love him with ſincerity.</l>
+               <l>'Tis not for profit, nor for worldly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>It is to love him onely for himſelf <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>To wit, all gains <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>Of benefits, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Sans hope of guerdom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his love as brings.</l>
+               <l>Saving to love him <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings;</l>
+               <l>Of this love <hi>David</hi> ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke with ch<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>full voice,</l>
+               <l>Saying, let all sh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> love thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rejoyce,</l>
+               <l>To love him for his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>Becauſe hee's ſove<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>igne <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>Wiſe in his Councells, in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>True in his promiſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truſt,</l>
+               <l>In habits glory over<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>To which no <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> can attain.</l>
+               <l>Soveraign perfection <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> poſſeſſing,</l>
+               <l>The Book o'th <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly doth expreſſe him,</l>
+               <l>Whoſe life's without beginning without <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ding,</l>
+               <l>Eſſentially upon himſelf depending.</l>
+               <l>Eternity in him's immutable,</l>
+               <l>His greatneſſe is alike <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>His power imp<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ll b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſeth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll reſiſtanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>The great Preſerved, and the ſure aſſiſtances.</l>
+               <l>Who by his word the world did make and frame,</l>
+               <l>And by his ſight <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth the ſame,</l>
+               <l>And by his will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>When he is pleaſ'd all things <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> conſum<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ate,</l>
+               <pb n="13" facs="tcp:105797:9"/>
+               <l> Who in one vertue and perfection he</l>
+               <l>Includes all vertue which in Creatures be;</l>
+               <l>For theſe great loves ſo beneficiall,</l>
+               <l>So ought our love to be reciprocall.</l>
+               <l>Chriſt taught us in his prayer which he did frame,</l>
+               <l>Firſt, to demand the Hallowing of his name,</l>
+               <l>And that his Kingdome to us might appear,</l>
+               <l>Ere we petition him for profit here.</l>
+               <l>A love that ſo poſſeſt the ſpirit of <hi>Paul,</hi>
+               </l>
+               <l>And <hi>Moſes</hi> alſo, that neglecting all</l>
+               <l>Their hope of bliſſe, they wiſhed to be blotted</l>
+               <l>Out of lifes book, and for their doom allotted,</l>
+               <l>The curſe of God from's preſence to abid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Rather then he ſhould not be glorified.</l>
+               <l>Wherefore to plant in us this ſupream love,</l>
+               <l>Our knowing God, hereto much may us move,</l>
+               <l>It ſhall ſtand need ſo far as we are able</l>
+               <l>To know Gods eſſence, why ſo amiable.</l>
+               <l>Beauty is that by nature all affect,</l>
+               <l>Now light on beauty doth the moſt reflect,</l>
+               <l>Without which light all beauties want their rayes,</l>
+               <l>Are but deformities, as nights to dayes.</l>
+               <l>And for this cauſe when God firſt ſet his hand</l>
+               <l>To the Creation of this earths vaſt ſtrand,</l>
+               <l>In the begining firſt he made the light,</l>
+               <l>Which him reſembled, therein did delight.</l>
+               <l>He is that Sun of Juſtice doth not ſet,</l>
+               <l>Never o'reſhaded his pure light to let,</l>
+               <l>Which doth not onely to the eyes give light,</l>
+               <l>But alſo to our eyes he giveth ſight.</l>
+               <l>Gueſſe at the brightneſſe of the King of Kings,</l>
+               <l>Wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angels vail their faces with their wings,</l>
+               <l>Whoſe eyes are dazled 'fore the glorious Throne,</l>
+               <l>Where his Majeſtick brightneſſe on them ſhone.</l>
+               <l>If at the fight of Chriſts humanity,</l>
+               <l>The nat'rall Sun as then ſhall dark'ned be</l>
+               <pb n="14" facs="tcp:105797:10"/>
+               <l> As ſome dark light when brighter doth appear,</l>
+               <l>His light Divine muſt needs be much more clear.</l>
+               <l>If on the life of God we contemplate,</l>
+               <l>Ours is as duſt and dung, ſo vile of rate,</l>
+               <l>Mans life's a fluxe, and hath of parts ſucceſſion,</l>
+               <l>But God at once hath all his in poſſeſſion.</l>
+               <l>He who deſires comparingly to know</l>
+               <l>Gods life from Mans, at Sea doth ebbe and flow,</l>
+               <l>The Sea with ſome ſmall Brook he may compare,</l>
+               <l>At ſo great diſtance differently they are.</l>
+               <l>The Sea is very great, the Brook but ſmall,</l>
+               <l>Seas keep their bounds, but Brooks keep none at all,</l>
+               <l>The Sea is owner of her floods in ſtore,</l>
+               <l>The Brookes have none but from the Seas before.</l>
+               <l>Gods life and mans are ſemblant in ſuch ſort,</l>
+               <l>God's infinite, Man's as a moment ſhort:</l>
+               <l>His life conſiſteth doubtleſly in reſt,</l>
+               <l>And all at once is inſtantly poſſeſt.</l>
+               <l>God's all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all, his life depends on none,</l>
+               <l>Our life, our all is from our God alone,</l>
+               <l>Earth as it was before doth earth become,</l>
+               <l>The Spirit Gods gift to him returneth home.</l>
+               <l>Gods knowledge is a pit that's ſo profound,</l>
+               <l>That humane reaſon cannot reach nor ſound;</l>
+               <l>God knowes all things, ev'n ſuch as yet are not,</l>
+               <l>Paſt, preſent, and to come, he all doth note.</l>
+               <l>We things alternately do here eſpie,</l>
+               <l>But God ſeeth all at once with his clear eye.</l>
+               <l>We ſee things preſent, why? becauſe they be,</l>
+               <l>But why things are, is God that doth them ſee:</l>
+               <l>For God to ſee it, is, as if to will,</l>
+               <l>His wil'ls to do, all this he doth fulfill.</l>
+               <l>Here for to know things we them look upon,</l>
+               <l>But God to know things views himſelf alone,</l>
+               <l>Becauſe God's abſolute and perfect wiſe,</l>
+               <l>All Modells are tranſparent to his eyes.</l>
+               <pb n="15" facs="tcp:105797:10"/>
+               <l> And in his will, as Judge he doth de<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</l>
+               <l>And ſentence every chance what it ſhall be.</l>
+               <l>His holineſſe it ought to be admired,</l>
+               <l>The Saints and Angels have not like acquired:</l>
+               <l>Ev'n as Gods Word, the higheſt Heav'n doth call,</l>
+               <l>The Heav'n of Heav'ns, for it incloſeth all,</l>
+               <l>Others inferior and of leſſe degree,</l>
+               <l>Within the higheſt that included be.</l>
+               <l>So God is nam'd by proper appellation,</l>
+               <l>Holy of holies, in his heav'nly ſtation.</l>
+               <l>Of Creatures holineſſe a quality is all,</l>
+               <l>But God is ſanctity it ſelf ſubſtantiall,</l>
+               <l>God's ſelf is holy, are men or Angells? no,</l>
+               <l>If they prove Saints, 'tis cauſe God makes them ſo.</l>
+               <l>Juſtice 'twixt God and Men we ought to know,</l>
+               <l>Men are deem'd juſt, becauſe juſt things they do,</l>
+               <l>Contrarily in God they are juſt things,</l>
+               <l>Being done by him on whom all juſtice hings.</l>
+               <l>Wherefore hee's juſt for this, no other cauſe,</l>
+               <l>Working his will preſcribed in his Lawes:</l>
+               <l>Which in his Mandates us he ſets before,</l>
+               <l>Still to obey, obſerve for evermore.</l>
+               <l>And to our minde he doth the ſame impart,</l>
+               <l>And it engraves within our hidden heart,</l>
+               <l>He loveth juſtice, truth, and equity,</l>
+               <l>He hates the workers of iniquity:</l>
+               <l>He rootes out lyars, and the men doth hate,</l>
+               <l>That thirſt for blood, he doth abominate</l>
+               <l>Of his great goodneſſe what ought we to ſay,</l>
+               <l>Which loves them, hate him, and do go a ſtray:</l>
+               <l>By which upon the juſt and wicked crew,</l>
+               <l>Daily his Sun doth ſhine and ſtill r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>new,</l>
+               <l>By which he powrs his bleſſings down in rain</l>
+               <l>Into their mouthes, which do blaſpheme his Name.</l>
+               <l>In chief this goodneſſe that's ſo infinite,</l>
+               <l>Shines in his Sonne, his onely dear delight:</l>
+               <pb n="16" facs="tcp:105797:11"/>
+               <l> This Sonne before all time he did beget,</l>
+               <l>Eternally he him begetteth yet:</l>
+               <l>Sonne of his Father, yet of equall date,</l>
+               <l>Both infinite, and both interminate.</l>
+               <l>Eternall wiſdome<g ref="char:punc">▪</g> word eſſentiall,</l>
+               <l>God everlaſtingly beatificall.</l>
+               <l>This Sonne whom <hi>Eſay</hi> calls the eternall Father,</l>
+               <l>Would make himſelf the Son of man the rather</l>
+               <l>That we might be Gods children, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orlorn,</l>
+               <l>He was content in Stable to be born,</l>
+               <l>That we might have of Heav'n the full fruition,</l>
+               <l>'Mongſt beaſts was born in poor and low condition.</l>
+               <l>He who er'ſt was, and is of life the bread,</l>
+               <l>Did ſuffer hunger, that we might be fed:</l>
+               <l>He who's the Well of life, he did not ſhrink</l>
+               <l>To thirſt himſelf, that we might freely drink.</l>
+               <l>He who is life it ſelf was pleaſ'd to dye,</l>
+               <l>That we might live, and that eternally.</l>
+               <l>All this for Creatures vile which did rebell,</l>
+               <l>That he might free them from the jawes of hell:</l>
+               <l>Theſe are the depths of grace, no bottome hath,</l>
+               <l>We underſtand not, we muſt reach by faith.</l>
+               <l>Theſe recreate our hearts, cauſe admiration,</l>
+               <l>Likewiſe no leſſe, adds to our conſolation:</l>
+               <l>Here are the higheſt Teſts can be expreſt</l>
+               <l>Of Gods great love to man ſo manifeſt,</l>
+               <l>The riches of that grace Angels admir'd,</l>
+               <l>To pry into have earneſtly deſir'd.</l>
+               <l>Now to what end may all theſe ſayings move us,</l>
+               <l>But to love God, who did ſo greatly love us;</l>
+               <l>And to admire the treaſures of his grace,</l>
+               <l>With ſuch like joy as Saints that ſee his face.</l>
+               <l>O God ſince that thy greatneſſe hath no end,</l>
+               <l>Which duſt and aſhes cannot comprehend,</l>
+               <l>Thy bounties boundleſſe paſt imagination,</l>
+               <l>Our Spirits are ſtopped with this contemplation.</l>
+               <pb n="17" facs="tcp:105797:11"/>
+               <l> Our words much lower are then is our mind,</l>
+               <l>Our thoughts beneath the truth are ſtill confin'd:</l>
+               <l>Of this Gods greatneſſe ſpeak we ſtammeringly,</l>
+               <l>Our praiſes thee abaſe and villifie.</l>
+               <l>We draw the picture of the Sun moſt bright,</l>
+               <l>With a black Coal, the Embleme of the night;</l>
+               <l>O God raiſe up our Spirits, and Souls to thee,</l>
+               <l>And if our knowledge ſhall too feeble be,</l>
+               <l>Inflame our love with ſuch an ardent zeal,</l>
+               <l>As thy pure Word is pleaſed to reveal.</l>
+               <l>Thou pleaſ'd to be our Father by dilection,</l>
+               <l>O touch our hearts with filliall affection;</l>
+               <l>Thou that doſt daily give us apt occaſion</l>
+               <l>Of loving thee, addict our inclination.</l>
+               <l>Though we be poor, in means uncapable,</l>
+               <l>Thou only canſt make us moſt acceptable.</l>
+               <l>All theſe and many more conſiderations</l>
+               <l>Ingage our love by numerous obligations;</l>
+               <l>Theſe raiſe our Spirits, not for our ſelves (to love,</l>
+               <l>This God) but for his ſake it doth us move.</l>
+               <l>Our God he duplicates this word, it's I, it's I,</l>
+               <l>For mine own ſake, ſaith, ſinners ſhall not dye;</l>
+               <l>His Church he doth reſemble to a flock,</l>
+               <l>Which bears his name, and his peculiar ſtock,</l>
+               <l>He ſafely guards her, both by night and day,</l>
+               <l>Leaſt ſhe to Sathan ſhould become a prey.</l>
+            </div>
+            <div n="3" type="part">
+               <head>The third degree is, not onely to love God above all things, and more then our ſelves, but alſo not to love any thing in the world but for Gods love.</head>
+               <l>THe third degree it is our God to love,</l>
+               <l>As both in Heav'n and Earth, all things above,</l>
+               <pb n="18" facs="tcp:105797:12"/>
+               <l> And in this world what ere our God did make,</l>
+               <l>Nought muſt we love but onely for his ſake.</l>
+               <l>This world hath many objects, that we find</l>
+               <l>From loving them we cannot ſtay our mind:</l>
+               <l>Yea, on account it would be reckoned ill,</l>
+               <l>If we ſhould not hold on to love them ſtill.</l>
+               <l>A Father loves his Children, and a wife</l>
+               <l>She loves her huſband dearly as her life;</l>
+               <l>Our allies, neighbours, and our next of kinne,</l>
+               <l>They ought to ſhare, and have a part therein.</l>
+               <l>So man may love his Study, Houſe and Health,</l>
+               <l>Yea, and with all his juſtly gotten wealth;</l>
+               <l>Of theſe who tends a man to diſpoſſeſſe,</l>
+               <l>'Twere Barb'rous doctrine wiſdome will confeſſe.</l>
+               <l>The ſacred Scriptures us this truth doth tell,</l>
+               <l>Who ſtarves his houſe hee's worſe then's Infidell;</l>
+               <l>For pietie doth not eradicate</l>
+               <l>Theſe good affections, but agricolate,</l>
+               <l>And of imperious Miſtreſſes they were,</l>
+               <l>Makes them but handmaids to Gods love and fear:</l>
+               <l>No more then <hi>Joſhua</hi> would the Gibeonites kill,</l>
+               <l>But them ſubjected for to do Gods will.</l>
+               <l>For then a Father doth his Children love,</l>
+               <l>Bringing them up that they fair Plants may prove,</l>
+               <l>Which in good time may bud, and fructifie,</l>
+               <l>Gods glorious houſe to garniſh and ſupplie;</l>
+               <l>If ſo remembring he their Father is,</l>
+               <l>To be more mindfull ſtill that God is his;</l>
+               <l>Then man doth love his friends as is required,</l>
+               <l>When they love God, the moſt to be deſired.</l>
+               <l>So to this end we do not health affect,</l>
+               <l>Becauſe its pleaſant, painleſſe in effect;</l>
+               <l>But rather makes us rigorous to attend</l>
+               <l>Our high vocation, thats it's proper end.</l>
+               <l>In l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke ſort knowledge, honour we may love,</l>
+               <l>So that their love from God doth not remove</l>
+               <pb n="19" facs="tcp:105797:12"/>
+               <l> Our mindes, but rather us the more incite</l>
+               <l>Unto good works, therein to take delight.</l>
+               <l>And as there is not any Brook ſo ſmall,</l>
+               <l>But in the Ocean at the laſt doth fall;</l>
+               <l>So let Gods goodneſſe, though but ſmall in ſhew,</l>
+               <l>Induce our thoughts his goodneſſe to purſue.</l>
+               <l>Briefly, our lives and neighbourly affections</l>
+               <l>Shall well be ſquared out by theſe directions.</l>
+               <l>When of Gods love they be both Brooks and Branches,</l>
+               <l>Our ſights reflection on Gods image glances.</l>
+               <l>Love not the perſon for his Garments gay,</l>
+               <l>But inſide vertues which his worth bewray:</l>
+               <l>If yee advance a man for honours ſake,</l>
+               <l>And notice elſe of him you none can take,</l>
+               <l>Yee are miſtaken, erre egregiouſly,</l>
+               <l>That by bare titles yee him dignify;</l>
+               <l>Which things when as they are from him bereft,</l>
+               <l>There's nothing lovely in this perſon left.</l>
+               <l>Ev'n as a Horſe that bears an Idol pack,</l>
+               <l>He hath no reverence when 'tis of his Back.</l>
+               <l>Contrariwiſe, if you a man ſhall love,</l>
+               <l>'Cauſe he beleeves and fears his God above.</l>
+               <l>Read in Gods Law, to ſpeak the truth addicted,</l>
+               <l>Juſt in his acts, relieves the poor afflicted,</l>
+               <l>Burning with zeal of Gods own habitation,</l>
+               <l>Such ſorts to love you'l never want occaſion.</l>
+               <l>If honour, goods, or life from him's bereft,</l>
+               <l>His priſtine, precious vertues ſtill are left:</l>
+               <l>And that rare excellence doth ſtill inherit,</l>
+               <l>Reſts in Gods image given by his Spirit.</l>
+               <l>
+                  <hi>I</hi> know the ſecrets of mans hidden heart,</l>
+               <l>To none but God are open and apart,</l>
+               <l>And often times thoſe friends we vertuous deem,</l>
+               <l>Do vicious prove, though otherwiſe they ſeem.</l>
+               <l>For he that loves his God ſhould reprehend,</l>
+               <l>And if he can he ſhould reforme his friend;</l>
+               <pb n="20" facs="tcp:105797:13"/>
+               <l> Flattery hath ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne away from friendſhip true,</l>
+               <l>All's tearms, ſave by reproach for to purſue.</l>
+               <l>To chide ones friend. who ere ſhall be afraid,</l>
+               <l>'Tis crueltie, for ſo the wiſe hath ſaid;</l>
+               <l>As when hee's near to drowning thou ſhouldſt fear</l>
+               <l>To ſave his life, by renting of his hair.</l>
+               <l>As <hi>Moſes</hi> rod (whiles ſuch) as rod he uſed,</l>
+               <l>But turning Serpent, then the ſame refuſed.</l>
+               <l>Such as the Brain is to the ſtrong tough Nerves,</l>
+               <l>And veins from out the Liver life preſerves.</l>
+               <l>And as the Heart is to the Arteries,</l>
+               <l>Such is Gods love to mens ſocieties.</l>
+               <l>That is, they are but points, which do depend</l>
+               <l>On God their Center, Alpha, and their end;</l>
+               <l>This love Divine unleſſe it be therein,</l>
+               <l>Friendſhips no friendſhip, at the beſt 'tis ſin.</l>
+               <l>A conſpiration, and a joynt accord</l>
+               <l>To diſagree with God the Soveraign Lord:</l>
+               <l>Friendſhips thats fixt on pleaſure, or on gain,</l>
+               <l>Do looſe their taſt, as theſe do ebbe or wain,</l>
+               <l>But friendſhips grounded on that firm foundation,</l>
+               <l>The love of God, do alwaies hold their ſtation,</l>
+               <l>Which love ought to advance it ſelf ſo high</l>
+               <l>As friends and foes, ſhall have a ſhare thereby,</l>
+               <l>Becauſe amongſt theſe enmities it's clear,</l>
+               <l>Some marks of Gods own Image yet appear;</l>
+               <l>For that like Rodds, God holds them in his hand,</l>
+               <l>Us to correct, and be at his command.</l>
+            </div>
+            <div n="4" type="part">
+               <pb n="21" facs="tcp:105797:13"/>
+               <head>The fourth degree is to hate our ſelves for Gods ſake.</head>
+               <l>IN this aſcenſion we muſt climbe yet higher,</l>
+               <l>For God, to hate our ſelves, we muſt aſpire;</l>
+               <l>As there's no love more ſtrong more naturall,</l>
+               <l>Then is that love, the which ſelf-love we call:</l>
+               <l>So it's that love, which breeds reſiſtance ſtill,</l>
+               <l>To be ſubdu'd, doth alwayes croſſe our will.</l>
+               <l>Such as our Shirt is, which we put off laſt,</l>
+               <l>So ſelf-affections cleaves to us full faſt:</l>
+               <l>A combate great by force we here muſt fight,</l>
+               <l>Againſt the roaring Lyon much of might:</l>
+               <l>It's Sathans laſt intrenchment and his ſtay,</l>
+               <l>From whence Gods power muſt drive the Fiend away.</l>
+               <l>None loves God truly, as it is his due,</l>
+               <l>Hates not his nature, it's deſires eſchew;</l>
+               <l>Againſt theſe Rebells doth not daily fight,</l>
+               <l>Untill theſe mortall foes he put to flight.</l>
+               <l>Being deſirous with firm reſolution</l>
+               <l>To end this warre by death, and diſſolution,</l>
+               <l>And of his blood here to be prodigall,</l>
+               <l>So that Gods glory ſuffer not at all;</l>
+               <l>And of this body to waxe wondrous weary,</l>
+               <l>As the poor Captives long in priſon tarry.</l>
+               <l>Like to the priſoner looking though the Grate,</l>
+               <l>Longs for enlargment by his liberate.</l>
+               <l>Look not for out-let at the priſon gate,</l>
+               <l>But for your freedom when 'tis ruinate.</l>
+               <l>He with himſelf holds warre and doth not ceaſe,</l>
+               <l>He with his God ſhall have perpetuall peace;</l>
+               <pb n="22" facs="tcp:105797:14"/>
+               <l> He that himſelf doth not aſſume to pardon,</l>
+               <l>God him remits, with his free grace for guerdon,</l>
+               <l>He that deſpiſeth life, the ſame doth hate,</l>
+               <l>Shall ſave his life, bought with a precious rate.</l>
+               <l>We're on the fourth degree, or ſtep of love,</l>
+               <l>The higheſt in this life, we Heav'nward move;</l>
+               <l>'Twas this degree enforced <hi>Paul</hi> to cry,</l>
+               <l>Ah, who ſhall free me from this miſery?</l>
+               <l>Who ſhall deliver me whiles I have breath.</l>
+               <l>From this bigge burden, body of this death<g ref="char:punc">▪</g>
+               </l>
+               <l>Of love it was this ſtep, or this degree,</l>
+               <l>Which cauſed <hi>David</hi> in his Soveraignty,</l>
+               <l>(Having quite quell'd his foes and them ſuppreſt,</l>
+               <l>With wealth and honour dignifide, poſſeſt,)</l>
+               <l>Confeſſe himſelf a ſtranger here to be,</l>
+               <l>Waifaring through the vale of miſery.</l>
+               <l>In that our Martyrs ſufferings were approved,</l>
+               <l>'Twas God they lov'd, and were of him beloved:</l>
+               <l>Bodies of braſſe, and muſcles arm'd with ſteel,</l>
+               <l>They did not wear, but had the ſence to feel,</l>
+               <l>For fire and ſword, no rackings ought could pain them,</l>
+               <l>God in their ſuffering did all times ſuſtain them:</l>
+               <l>If their thus ſuffering cauſe no reformation,</l>
+               <l>Then doubtleſſely they'll ſerve for condemnation.</l>
+               <l>Thoſe that to this degree of love attain,</l>
+               <l>A hard, ſharp conflict they muſt all ſuſtain.</l>
+               <l>Our fleſh is mutinous, and doth rebell,</l>
+               <l>Rooted in evill, hard for to expell:</l>
+               <l>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hand or foot, or member that's moſt dear,</l>
+               <l>Diſmember them, if vicious they appear.</l>
+               <l>Victorious are we after bonds and thrall,</l>
+               <l>But we muſt wreſtle though we catch a fall.</l>
+               <l>As in a croſſe-way man is ſet to ſtand,</l>
+               <l>Sometimes the ſpirit then fleſh gets upper hand;</l>
+               <l>Between the love of God and worldly love,</l>
+               <l>Some ſtrange ſuggeſtions do him try and prove.</l>
+               <pb n="23" facs="tcp:105797:14"/>
+               <l> How oft i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it after Gods love prevailed,</l>
+               <l>By freſh aſſaults the faithfull <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e aſſailed;</l>
+               <l>And the freſh forces the Spirit do withſtand,</l>
+               <l>Againſt Gods fear, and love themſelves, do band.</l>
+               <l>The faithfull being by theſe appetites,</l>
+               <l>Beſet, with luſts, and ſuch like lewd delights,</l>
+               <l>Shall feel this love of God within his heart,</l>
+               <l>Thus ſpeaking, Man, whence is it thou doeſt ſtart?</l>
+               <l>O wretched man, whether now wilt thou go,</l>
+               <l>Doth not God ſee't, thy inclination know?</l>
+               <l>Deſpiſeſt thou his menace and his frown?</l>
+               <l>Rejecteſt thou his promiſes to own?</l>
+               <l>Forgetteſt thou thy honoured high vocation?</l>
+               <l>Dares thou provoke Gods Spirit to indignation?</l>
+               <l>Why ſhouldſt thou on his Church a ſcandall bring,</l>
+               <l>Since Chriſt thereof is Soveraign, Lord, and King?</l>
+               <l>Where are the promiſes which thou haſt made him</l>
+               <l>For guifts receiv'd? as yet thou haſt not paid him.</l>
+               <l>Is this the way to Heaven thou doſt deviſe?</l>
+               <l>And being fall'n, art thou aſſured to riſe?</l>
+               <l>And for ſhort pleaſures which have loſt their taſt,</l>
+               <l>Thy peace of Conſcience muſt it be diſplac'd?</l>
+               <l>For pottage wilt thou of thy right bereave</l>
+               <l>Thy ſelf, and vainly ſo thy birth-right leave?</l>
+               <l>At theſe ſuggeſtions will the faithfull ſtay,</l>
+               <l>Croſſe his deſires, and let them bear no ſway.</l>
+               <l>But all's not done, our frailtie's yet not quelled,</l>
+               <l>Nor froward fleſh which hath ſo long rebelled.</l>
+               <l>For after theſe our holy reſolutions,</l>
+               <l>We have great dulneſſe, cauſing diminutions:</l>
+               <l>And then the Divell doth eſpy occaſion,</l>
+               <l>Makes a freſh onſet, by a re-invaſion.</l>
+               <l>If we be idle, uſe bad company,</l>
+               <l>Neglecting pray'r, or duties elſe of piety:</l>
+               <l>Then our deſires do rouze themſelves again,</l>
+               <l>The Fleſh and Spirit for maſtery ſtrive amain:</l>
+               <pb n="24" facs="tcp:105797:15"/>
+               <l> Which makes the faithfull in this reſtleſſe ſtrife,</l>
+               <l>Deſire his death, and's weary of his life,</l>
+               <l>O wretched nature, it ſelfs enemy,</l>
+               <l>Deſtroyes it ſelf purſuing miſery:</l>
+               <l>O thou corruption that takes root ſo deep,</l>
+               <l>O mutinous ſedition, that doth keep</l>
+               <l>In us hoſtility, and doth not ſlack,</l>
+               <l>But us as ſlaves to <hi>Egypt</hi> would bring back.</l>
+               <l>Which like <hi>Lots</hi> wife, lookes back with her deſire</l>
+               <l>On ſinfull <hi>Sodom,</hi> flaming all with fire,</l>
+               <l>If we have thoughts, that fixed are on death,</l>
+               <l>Our fleſh will whiſper, we may yet long breath:</l>
+               <l>If we ſhall hear or read Gods ſacred Word,</l>
+               <l>Threatning our ruine by his glittering ſword:</l>
+               <l>It ſoothes us up, and doth us ſo perſwade</l>
+               <l>VVe are ſecure, to others it is ſaid.</l>
+               <l>If we Heav'ns glory ſhall recount, conſider,</l>
+               <l>It will ſuggeſt, we ſhall come early thither.</l>
+               <l>If thou incited be to help the poor,</l>
+               <l>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth ſuggeſt, it will impair thy ſtore.</l>
+               <l>If thy friends frailty thou wouldſt reprehen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>'Twill over-aw thee leſt thou him offend,</l>
+               <l>Each good affection hath ev'n as it were</l>
+               <l>Like to a Pot, on either ſide an ear,</l>
+               <l>By which the world and fleſh take hold upon,</l>
+               <l>Striving to lett the execution.</l>
+               <l>
+                  <hi>Rebekah's</hi> ſteps we next muſt imitate,</l>
+               <l>VVho, great with Childe, her God did ſupplicate,</l>
+               <l>VVho inſtantly reſolved her requeſt,</l>
+               <l>Two ſtriving Twinns they did her Womb moleſt:</l>
+               <l>A lively figure, not ſo old as true,</l>
+               <l>Of man, it repreſents the old and new:</l>
+               <l>The old, man's carnall by corrupted nature,</l>
+               <l>The other new, is the regenerate Creature;</l>
+               <l>As in a conflict both do daily ſtrive,</l>
+               <l>And are at odds ſo long as wee're alive.</l>
+               <pb n="25" facs="tcp:105797:15"/>
+               <l> Unto <hi>Rebekah's</hi> ſuit God did decree,</l>
+               <l>The old unto they young ſhould ſubject be:</l>
+               <l>The fleſh unto the ſpirit muſt be ſubjected,</l>
+               <l>And by that means ſhall be of God accepted.</l>
+            </div>
+            <div n="5" type="part">
+               <head>The fift degree is that wherewith we ſhall love God in the life to come.</head>
+               <l>NOw here remains the laſt and chief degree,</l>
+               <l>This higheſt ſtep is Heav'ns felicity,</l>
+               <l>VVhich is the love wherewith at laſt we ſhall</l>
+               <l>Love God in's glory that's Coeleſtiall.</l>
+               <l>For we love things by nature here below,</l>
+               <l>According as by ſcience we them know:</l>
+               <l>VVe therefore ſhall God love much better then,</l>
+               <l>VVith love of Saints, and not as mortall men.</l>
+               <l>Now (as th'Apoſtle ſaith) we know in part<g ref="char:punc">▪</g>
+               </l>
+               <l>But then revealed, open, and apart.</l>
+               <l>As in a Glaſſe we ſee, but here obſcurely,</l>
+               <l>But then perſpicuouſly, as Chriſtall purely,</l>
+               <l>VVhen he in glory ſhall conſummate grace,</l>
+               <l>Then ſhall we ſee as it were face to face,</l>
+               <l>Our love which here dſtractedly doth ſtand,</l>
+               <l>And ſees far<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off, ſhall then ſee near at hand:</l>
+               <l>Our love on God ſhall onely fixed be</l>
+               <l>Being the obiect of felicity.</l>
+               <l>As when two ſwelling Rivers proud and high,</l>
+               <l>Encountring each other furiouſly,</l>
+               <l>They joyn in force, and by their ſtrong invaſion</l>
+               <l>Do make a marvellous flood, and inundation,</l>
+               <l>So that the love of God and ſelf affection</l>
+               <l>Are like two Streams on earth, have no connexion,</l>
+               <pb n="26" facs="tcp:105797:16"/>
+               <l> Which no where elſe hencforth ſhall have their meeting,</l>
+               <l>'Till they in Heav'n each other give the greeting,</l>
+               <l>When theſe affections twain ſhall be commixt,</l>
+               <l>And in one love are faſt and firmly fixt,</l>
+               <l>For then in loving God our ſelves may love,</l>
+               <l>Becauſe that league God doubtleſſe will approve,</l>
+               <l>And dwell in us where he delights to dwell,</l>
+               <l>Reſembling him whoſe north no tongue can tell.</l>
+               <l>For Saints and Angels they undoubtedly</l>
+               <l>Do love themſelves with ardent fervency.</l>
+               <l>Let us forbear to love (untill that time)</l>
+               <l>Our ſelves, or ought in us doth not incline</l>
+               <l>Our hearts, and make them hopefull of this love,</l>
+               <l>Which is eterniz'd in the Heav'ns above.</l>
+               <l>But now for that this love, wherewith we ſhall</l>
+               <l>Love God in Heav'n, is ſupernaturall,</l>
+               <l>Springs from the view, and lovely contemplation</l>
+               <l>Of his own face, beyond all admiration.</l>
+               <l>Love is not kindled elſe but by the ſight,</l>
+               <l>Let's learn what ſight this is brings this delight.</l>
+               <l>Our bodies eyes two wayes diſcern and ſee,</l>
+               <l>Or apprehending what the image be:</l>
+               <l>For ſo the bodies to our view expoſed,</l>
+               <l>They are apparent, viſibly diſcloſed.</l>
+               <l>Or by in letting to our nat'rall ſight</l>
+               <l>The thing we ſee, which truely is the light,</l>
+               <l>So do we ſee the day, no otherwiſe,</l>
+               <l>Then that it daily enters in our eyes:</l>
+               <l>Now God that is the chief ſupremeſt light,</l>
+               <l>In's glory will ſhew ſouls that hee's moſt bright;</l>
+               <l>For in his Saints he keeps his habitation,</l>
+               <l>And's in them all in all without ceſſation.</l>
+               <l>But in this life we in his works behold</l>
+               <l>His wondrous workmanſhip ſo manifold,</l>
+               <l>In which he made an abſelute impreſſion,</l>
+               <l>As't were his vertues Picture, paſt expreſſion.</l>
+               <pb n="27" facs="tcp:105797:16"/>
+               <l> Therefore as now we ſee the nat'rall light,</l>
+               <l>Then ſhall we ſee our God with ſuch a ſight.</l>
+               <l>But now we ſee it not but with theſe eyes,</l>
+               <l>The bodies windowes, and no otherwiſe.</l>
+               <l>For then the light of God through all our parts</l>
+               <l>We ſhall receive, which holifies our hearts,</l>
+               <l>Ev'n as a man were only eye throughout,</l>
+               <l>As he ſhould ſee at once things round about.</l>
+               <l>This ſight of God it will aſſuredly</l>
+               <l>Transform us, like himſelf, in puritie,</l>
+               <l>For as a mirrour by the Suns reflection,</l>
+               <l>Shines like the ſame in clearneſſe ſans defection:</l>
+               <l>For God receiveth none to contemplate</l>
+               <l>His face, ſave thoſe are in Celeſtiall eſtate:</l>
+               <l>He doth transform them, that the ſemblant prove</l>
+               <l>Like to himſelf, irradiate in love.</l>
+               <l>As God himſelf is perfect love and charity,</l>
+               <l>It man behoves to imitate his paritie;</l>
+               <l>Upon this view and heavenly radiation,</l>
+               <l>Should be inflam'd with loves aſſociation,</l>
+               <l>And burn with heat of this hot ſpirit'all fire,</l>
+               <l>Whoſe ardency the Saints in light acquire.</l>
+               <l>A fire which to the Seraphims gives name,</l>
+               <l>So call'd becauſe their ardour aye inflame:</l>
+               <l>The ſumme of all is their officious love,</l>
+               <l>Their fervent zeal their ſervice to improve.</l>
+               <l>Here theſe degrees and ſteps of love muſt end,</l>
+               <l>For higher Heav'n-ward we cannot aſcend:</l>
+               <l>Of <hi>Jacobs</hi> ladder this ſtep is the laſt,</l>
+               <l>By which we mount where ſpeechleſſe joyes are plac't.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
